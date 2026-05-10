@@ -1,6 +1,6 @@
 # Proof, please!
 
-### Decentralized Contribution & Reputation Infrastructure for Indie Game Ecosystems
+### Decentralized Contribution & Reputation Infrastructure for Indie Games
 
 **Built on Solana | Powered by AI Scoring | Web3 Native**
 
